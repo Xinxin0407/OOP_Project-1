@@ -67,7 +67,7 @@ public class TwoDArray {
 		
 		}
 		else {
-			res = "Failure: " + row + col +" is not empty.";
+			res = "Failure: " + row + ", " + col +" is not empty.";
 		}
 
 		return res;
